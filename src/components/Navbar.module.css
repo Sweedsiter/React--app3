@@ -1,0 +1,20 @@
+
+.head{
+    display: inline-flex;
+    justify-content: space-between;
+    width: 100%;    
+    box-shadow: 2px 2px 8px gray;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    height: 4rem;    
+    align-items: center;
+    background-color:rgba(165, 165, 165, 0.2);
+    backdrop-filter: blur(5px);
+ }
+.ul{
+    display: inline-flex;
+}
+.Link{
+    text-decoration-line: none;
+}
+

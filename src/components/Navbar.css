@@ -1,0 +1,11 @@
+.active{
+    background-color: rgb(253, 156, 190);
+    border: 2px solid rgb(253, 156, 190);
+    border-radius: 8px;
+    box-shadow: 2px 2px 8px rgb(241, 216, 225);
+    padding: 4px;
+ 
+}
+input{
+    margin-right: 3rem;
+}

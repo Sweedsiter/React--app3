@@ -1,0 +1,15 @@
+li{
+    font-weight: bold;
+    list-style: none;
+    padding-right: 1rem;
+    cursor: pointer;
+}
+input{
+    padding: 6px;
+    outline: none;
+    outline-style: none;
+}
+.contener{
+    /* background-color: rgb(95, 95, 95); */
+    height: 100vh;
+}

@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    align-items: center;
+}
+
+
+@media only screen and (max-width: 600px) { 
+    .ul{
+        display: inline-flex;
+        flex-direction: column;   
+    }
+    .head{
+        display: inline-flex;
+        justify-content: space-between;
+        width: 100%;    
+        border: 1px solid gray;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        height: auto;
+    }
+  }
